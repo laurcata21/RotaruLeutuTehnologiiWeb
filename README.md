@@ -5,4 +5,4 @@
 ### Ne adresam orcarui tip de utilizator, de la cei de cei care sunt de origine Asiatica si care vor sa vada in ce locuri, pot simti ca se simt prin stomac , exact ce simt in propria lor tara , pana la clientii din Bucuresti , care vor sa incerce ceva nou si vor sa stie unde pot gasi acest lucru nou,  si sa isi mareasca orizonturile culinare.	
 ### Pe piata in principiu este serviciul Google Maps detinut de gigantul Google care ofera si el toate restaurantele, dar trebuie uneori sa scrii exact numele acestora si unele dintre acestea sunt evitate, si poate acele lucruri sunt de o calitate buna, doar ca inca nu s-au dezvoltat inca la nivelul de a aparea ca o locatie frecventata de client pe Google Maps.
 -----------------------------------------------------------------------------------------------------------------------------------------
-![github-large](https://github.com/laurcata21/RotaruLeutoTehnologiiWeb/issues/1#issue-527708947)
+https://github.com/laurcata21/RotaruLeutoTehnologiiWeb/issues/1#issue-527708947
